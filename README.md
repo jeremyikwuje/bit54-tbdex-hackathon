@@ -2,7 +2,7 @@
 
 **Bit54** is an international money transfer platform that makes it easy to send money to all 54 African countries—powered by **TBDEX protocol**.
 
-![Bit54 - Send money to 54 countries in Africa](https://ik.imagekit.io/monierate/bit54-readme-banner.png?updatedAt=1726419790322)
+![Bit54 - Send money to 54 countries in Africa](https://ik.imagekit.io/monierate/Bit54-send-flow.png?updatedAt=1726484436896)
 
 Africa remains one of the most expensive regions for sending money, with an average transaction cost of **7.8%** per $200 sent. Remittances to Africa reached **$100 billion** in 2022, yet inefficiencies and high costs continue to plague people, particularly for intra-Africa transfers. With 54 countries, thousands of payment corridors, and varying regulations, traditional cross-border payments are costly and slow, with limited transparency.
 
